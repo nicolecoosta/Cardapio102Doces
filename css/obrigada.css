@@ -12,6 +12,7 @@
 }
 
 .obrigada{
+  max-height: 3000px;
   display: flex;
   flex-direction: column;
   align-items: center;
